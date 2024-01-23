@@ -1,0 +1,8 @@
+com\bouchtaouimarouane\notification\NotificationApplication.class
+com\bouchtaouimarouane\notification\NotificationService.class
+com\bouchtaouimarouane\notification\NotificationConfig.class
+com\bouchtaouimarouane\notification\Notification.class
+com\bouchtaouimarouane\notification\rabbitmq\NotificationConsumer.class
+com\bouchtaouimarouane\notification\NotificationRepository.class
+com\bouchtaouimarouane\notification\NotificationController.class
+com\bouchtaouimarouane\notification\Notification$NotificationBuilder.class

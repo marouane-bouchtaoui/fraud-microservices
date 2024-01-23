@@ -1,0 +1,6 @@
+com\bouchtaouimarouane\fraud\FraudCheckHistory$FraudCheckHistoryBuilder.class
+com\bouchtaouimarouane\fraud\FraudCheckHistory.class
+com\bouchtaouimarouane\fraud\FraudCheckService.class
+com\bouchtaouimarouane\fraud\FraudCheckHistoryRepository.class
+com\bouchtaouimarouane\fraud\FraudApplication.class
+com\bouchtaouimarouane\fraud\FraudController.class

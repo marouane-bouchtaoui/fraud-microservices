@@ -1,0 +1,4 @@
+com\bouchtaouimarouane\clients\fraud\FraudCheckResponse.class
+com\bouchtaouimarouane\clients\notification\NotificationClient.class
+com\bouchtaouimarouane\clients\notification\NotificationRequest.class
+com\bouchtaouimarouane\clients\fraud\FraudClient.class

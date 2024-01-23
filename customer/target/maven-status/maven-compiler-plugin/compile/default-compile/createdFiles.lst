@@ -1,0 +1,8 @@
+com\bouchtaouimarouane\customer\CustomerController.class
+com\bouchtaouimarouane\customer\CustomerRegistrationRequest.class
+com\bouchtaouimarouane\customer\CustomerConfig.class
+com\bouchtaouimarouane\customer\CustomerRepository.class
+com\bouchtaouimarouane\customer\entities\Customer.class
+com\bouchtaouimarouane\customer\CustomerService.class
+com\bouchtaouimarouane\customer\entities\Customer$CustomerBuilder.class
+com\bouchtaouimarouane\customer\CustomerApplication.class
